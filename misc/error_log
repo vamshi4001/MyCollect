@@ -1,0 +1,17 @@
+[04-Dec-2009 21:45:46] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=yahoo collect) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/tckb/public_html/projects/mycollect/misc/lib/html_php_parser.php on line 39
+[04-Dec-2009 21:46:36] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=yahoo  collect) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/tckb/public_html/projects/mycollect/misc/lib/html_php_parser.php on line 39
+[04-Dec-2009 22:01:54] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=yahoo collect) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/tckb/public_html/projects/mycollect/misc/lib/html_php_parser.php on line 39
+[04-Dec-2009 22:03:31] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search='yahoo collect') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/tckb/public_html/projects/mycollect/misc/lib/html_php_parser.php on line 39
+[05-Dec-2009 06:39:12] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/tckb/public_html/projects/mycollect/misc/wiki.php on line 15
+[12-Dec-2009 05:20:08] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search='') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/vamshi23/public_html/mycollect/misc/lib/html_php_parser.php on line 39
+[12-Dec-2009 05:20:15] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search='') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/vamshi23/public_html/mycollect/misc/lib/html_php_parser.php on line 39
+[12-Dec-2009 18:44:52] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search='kcr') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/vamshi23/public_html/mycollect/misc/lib/html_php_parser.php on line 39
+[12-Dec-2009 18:45:44] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search='kcr') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/vamshi23/public_html/mycollect/misc/lib/html_php_parser.php on line 39
+[01-Jan-2010 08:17:33] PHP Warning:  file_get_contents(http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search='jump') [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/vamshi23/public_html/mycollect/misc/lib/html_php_parser.php on line 39
